@@ -1,0 +1,11 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://loopback_28_march:loopback_28_march@ds147799.mlab.com:47799/loopback",
+  "host": "ds147799.mlab.com",
+  "port": 47799,
+  "user": "loopback_28_march",
+  "password": "loopback_28_march",
+  "database": "loopback",
+  "useNewUrlParser": true
+}
